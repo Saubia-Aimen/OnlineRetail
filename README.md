@@ -46,22 +46,18 @@ The project follows a structured data analysis workflow:
 ### 1. Customer Segment Distribution
 The analysis revealed a significant portion of customers fall into "Hibernating" or "At Risk" categories, presenting both a challenge and an opportunity for targeted re-engagement campaigns. "Champions" and "Loyal Customers" make up a smaller but highly valuable portion of the customer base.
 
-![Customer Segment Distribution](images/segment_distribution.png)
-*(Note: Replace `images/segment_distribution.png` with the actual path to your saved chart image)*
 
 ### 2. Predicted Lifetime Value by Segment
 The predictive models confirmed the validity of the RFM segmentation. The "Champions" segment has a significantly higher average predicted CLV, validating that our most recent and frequent high-spenders are indeed the most valuable in the long run.
 
-![CLV by Segment](images/clv_by_segment.png)
-*(Note: Replace `images/clv_by_segment.png` with the actual path to your saved chart image)*
 
 ## Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
-* **🏆 For Champions:** Implement a loyalty program with exclusive perks and early access to new products. The goal is to retain these high-value customers and turn them into brand advocates.
-* **💔 For At Risk Customers:** Launch a targeted "we miss you" email campaign with a personalized discount based on their past purchase history. This proactive step is crucial to re-engage them before they churn.
-* **🌱 For Promising/New Customers:** Nurture them with an onboarding email series that showcases the brand's value and offers an incentive for their second purchase to increase buying frequency.
+* ** For Champions:** Implement a loyalty program with exclusive perks and early access to new products. The goal is to retain these high-value customers and turn them into brand advocates.
+* ** For At Risk Customers:** Launch a targeted "we miss you" email campaign with a personalized discount based on their past purchase history. This proactive step is crucial to re-engage them before they churn.
+* ** For Promising/New Customers:** Nurture them with an onboarding email series that showcases the brand's value and offers an incentive for their second purchase to increase buying frequency.
 
 ## How to Run This Project
 
@@ -82,6 +78,7 @@ Based on the analysis, the following actions are recommended:
 
 ---
 
-**Author:** [Your Name]
+**Author:** Saubia Aimen
 
-**Contact:** [Your LinkedIn Profile URL] or [Your Email]
+**Contact:** https://www.linkedin.com/in/saubia-aimen-456a7321a/
+             saubiaaimen.q@gmail.com
