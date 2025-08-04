@@ -59,22 +59,6 @@ Based on the analysis, the following actions are recommended:
 * **For At Risk Customers:** Launch a targeted "we miss you" email campaign with a personalized discount based on their past purchase history. This proactive step is crucial to re-engage them before they churn.
 * **For Promising/New Customers:** Nurture them with an onboarding email series that showcases the brand's value and offers an incentive for their second purchase to increase buying frequency.
 
-## How to Run This Project
-
-1.  Clone this repository:
-    ```bash
-    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repo-Name].git
-    ```
-2.  Install the required dependencies. It is recommended to use a virtual environment.
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(To create the `requirements.txt` file, run `pip freeze > requirements.txt` in your terminal)*
-
-3.  Launch the Jupyter Notebook:
-    ```bash
-    jupyter notebook Customer_Segmentation_and_CLV.ipynb
-    ```
 
 ---
 
