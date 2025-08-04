@@ -55,9 +55,9 @@ The predictive models confirmed the validity of the RFM segmentation. The "Champ
 
 Based on the analysis, the following actions are recommended:
 
-* ** For Champions:** Implement a loyalty program with exclusive perks and early access to new products. The goal is to retain these high-value customers and turn them into brand advocates.
-* ** For At Risk Customers:** Launch a targeted "we miss you" email campaign with a personalized discount based on their past purchase history. This proactive step is crucial to re-engage them before they churn.
-* ** For Promising/New Customers:** Nurture them with an onboarding email series that showcases the brand's value and offers an incentive for their second purchase to increase buying frequency.
+* **For Champions:** Implement a loyalty program with exclusive perks and early access to new products. The goal is to retain these high-value customers and turn them into brand advocates.
+* **For At Risk Customers:** Launch a targeted "we miss you" email campaign with a personalized discount based on their past purchase history. This proactive step is crucial to re-engage them before they churn.
+* **For Promising/New Customers:** Nurture them with an onboarding email series that showcases the brand's value and offers an incentive for their second purchase to increase buying frequency.
 
 ## How to Run This Project
 
